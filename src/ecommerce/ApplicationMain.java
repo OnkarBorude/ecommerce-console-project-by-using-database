@@ -9,7 +9,7 @@ import UserManagement.UserManagement;
 public class ApplicationMain {
 
 	public static void main(String[] args) throws IOException {
-		System.out.println("****Welcome to Ecommerce****");
+		System.out.println("****Welcome to Ecommerce First****");
 		Scanner sc=new Scanner(System.in);
 		boolean shouldrun=true;
 		while(shouldrun) {
